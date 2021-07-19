@@ -5,12 +5,9 @@ Also it is based on Turtle graphics.
 The name 'Pyint' is compound word of 'Python' and 'Paint'
 
 I got inspiration from the MS Winodws' graphic software - MSPaint.
-So, I am trying to make my own graphic sofrware with this project.
+And Make my own graphic sofrware is one of my goals through this project.
 
-There are two keywords in Pyint. 'Simple' & 'Easy'
-I aim to make this program likes its design simply.
-Also, I want to make it as easy as possible.
-
-The whole source code will be open source
+'Simple' & 'Easy' are keywords of Pyint.
+So, 'Design Simple, Easy to handle' is the motto of it.
 
 Enjoy :)
