@@ -32,7 +32,7 @@ For example, if you want to move pen forward, just type 'w' and press 'Enter' ke
 
 q: Turn the pen to the left(it will turns in 45 degrees).
 
-r: Turn the turtle to the right(it also turns 45 degrees).
+r: Turn the pen to the right(it also turns 45 degrees).
 
 es: Enter to settings. You can change colors of pen and background.
 
