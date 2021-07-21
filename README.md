@@ -12,14 +12,23 @@ It inspired from the MS Winodws' graphic software - MSPaint.
 
 So, 'Design Simple, Easy to handle' is the motto of this project.
 
-## How to use?
+## How to use
+
+### Download and Run
+
+Download file from the [Pyint GitHub release page.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
+And Run the file, you can use the Pyint.
+
+Pyint can run only in MS Windows
+
+### Operate
 
 Pyint is easy to use. Just type the command and press 'Enter'!!
 
 basically control with 'WASD'
 For example, if you want to move pen forward, just type 'w' and press 'Enter' key.
 
-### And now here is additional fucion with type those:
+#### - And now here is additional fucion with type those:
 
 q: Turn the pen to the left(it will turns in 45 degrees).
 
