@@ -18,7 +18,7 @@ So, 'Design Simple, Easy to handle' is the motto of this project.
 
 ### Download and Run
 
-Download file from the [Pyint GitHub release page.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
+Download file from the [Pyint GitHub release page.](https://github.com/Johndoe0153/Pyint/releases)
 And Run the file, you can use the Pyint.
 
 Pyint can run only in MS Windows
