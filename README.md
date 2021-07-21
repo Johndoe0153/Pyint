@@ -29,7 +29,7 @@ es: Enter to settings. You can change colors of pen and background.
 
 ss: Save and exit from the settings. If you changed the setting, type it.
 
-gg: Close the program.For end up this program, press 'gg' and you will come out from the program
+gg: Close the program.For end up this program, type 'gg' and you will come out from the program
 
 
 Enjoy :)
