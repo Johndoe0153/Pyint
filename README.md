@@ -32,19 +32,21 @@ Pyint is easy to use.
 
 You can use Pyint with mouse, but some fuctions can use with typing commands.
 
-Now here are some commands that you know:
+Click the left mouse button and draw. If you click the right mouse button on where you want, pen will move.
 
-pu: Pen Up. If you type 'pu', pen will not draw the line.
+And if you click the left mouse button again, you can keep draw.
 
-pd: Pen down. If you type 'pu', pen will draw the line. Use it after you type 'pu'.
+#### Now here are some commands that you know:
 
 h: Home. Use it when you want to the pen comes on the basic position(0,0).
 
 z: Undo. It works similar likes 'Ctrl + Z'
 
-es: Enter to settings. You can change colors of pen and background.
+pencolor: Enter to Pen Color Settings. You can change color of pen.
 
-ss: Save and exit from the settings. ⚠️ If you changed the setting, don' forget type 'ss'. If you didn't you should type settings AGAIN :(
+bgcolor: Enter to Background Color Settings. You can change color of background.
+
+penthickness: Enter to Pen Thickness Settings. You can change thickness of pen.
 
 gg: Close the program. Type 'gg' and if you really want to close, type 'y'.
 
