@@ -1,6 +1,7 @@
 # Pyint
 
-![Pyint Adds](https://user-images.githubusercontent.com/87603390/126778265-83fa37a4-fd8a-4834-a750-762995197800.png)
+![README](https://user-images.githubusercontent.com/87603390/126960711-4a1ca12b-bf58-4cf3-a6af-35f54c508f0c.PNG)
+
 
 ## About Pyint
 
