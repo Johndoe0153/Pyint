@@ -1,6 +1,6 @@
 # Pyint
 
-![README](https://user-images.githubusercontent.com/87603390/126960711-4a1ca12b-bf58-4cf3-a6af-35f54c508f0c.PNG)
+![README](https://user-images.githubusercontent.com/87603390/128011063-5d0be55c-f51d-419d-9779-92bae29c58e4.PNG)
 
 
 ## About Pyint
