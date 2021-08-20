@@ -15,7 +15,7 @@ It inspired from the MS Winodws' graphic software - MSPaint.
 
 So, 'Design Simple, Easy to use' is the motto of this project.
 
-## Downloads and Running MonteCrisoLab Pyint
+## Downloads and Running MonteCristoLab Pyint
 
 Download file from the [Pyint GitHub release page.](https://github.com/Johndoe0153/Pyint/releases)
 After download, please run the file, and then you can use the Pyint.
