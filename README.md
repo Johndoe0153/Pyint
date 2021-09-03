@@ -31,25 +31,7 @@ After download, please run the file, and then you can use the Pyint.
 
 Pyint is easy to use.
 
-You can use Pyint with mouse, but some fuctions can use with typing commands.
-
-Click the left mouse button and draw. If you click the right mouse button on where you want, pen will move.
-
-And if you click the left mouse button again, you can keep draw.
-
-#### Now here are some commands that you know:
-
-h: Home. Use it when you want to the pen comes on the basic position(0,0).
-
-z: Undo. It works similar likes 'Ctrl + Z'
-
-pencolor: Enter to Pen Color Settings. You can change color of pen.
-
-bgcolor: Enter to Background Color Settings. You can change color of background.
-
-penthickness: Enter to Pen Thickness Settings. You can change thickness of pen.
-
-gg: Close the program. Type 'gg' and if you really want to close, type 'y'.
+You can use Pyint with mouse.
 
 ## License
 
